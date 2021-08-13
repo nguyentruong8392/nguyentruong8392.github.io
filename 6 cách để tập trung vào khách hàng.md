@@ -43,7 +43,7 @@ Bạn có thể làm gì để tách mình ra để có một góc nhìn mới v
 ## 2. Hợp nhất các nhóm thay vì chia nhỏ
 
 Thay vì chia nhóm thành các nhóm chuyên biệt, chẳng hạn như Dev Team, Tester Team hay QA Team.Tôi khuyên bạn nên tập hợp các nhóm lại với nhau.
-Tôi thường xuyên thấy tình trạng đá quả bóng trách nhiệm giữa các Team và không bao giờ thấy nó hiệu quả. 
+Tôi thường xuyên thấy tình trạng đá quả bóng trách nhiệm giữa các nhóm và không bao giờ thấy nó hiệu quả. 
 Hãy mang họ lại thành một nhóm để cùng hoàn thành Product Backlog Items với nhau theo Definition of Done.
 
 Đọc thêm bài viết [5 practices that help with agile software development](https://www.scrum.org/resources/blog/5-practices-help-agile-software-development)
@@ -59,3 +59,33 @@ Product Owner từ chối một feature
 
 Chú ý: Việc chấp nhận hoặc từ chối cũng thể hiện một hệ thống phân cấp đi ngược lại Scrum.
 
+## 4. Giá trị gia tăng hơn là KPI
+
+Thay vì tôn vinh tốc độ, khả năng sử dụng cũng như tính hoàn thiện của tính năng, chúng ta nên định nghĩa thành công là tác động đến người dùng của mình. Sản phẩm của bạn giúp gì để cuộc sống của người dùng tốt hơn
+
+**Ảnh**
+
+**Làm cách nào để nhóm cả thấy đồng cảm hơn với người dùng**
+
+## 5. Chia các chức năng lớn thành các mục tiêu nhỏ hơn
+
+Thay vì làm một chức năng lớn qua nhiều Sprint tôi khuyên bạn hãy thực hiện từng mục tiêu nhỏ. Hãy chia nhỏ tầm  nhìn của một sản phẩm lớn thành các đầu việc có thể bàn giao ở mỗi Sprint.
+Ngay cả việc đạt được mục tiêu hàng ngày cũng rất đáng để tôn vinh. Điều này kéo theo sự kỷ luật và tiến bộ. Sản phẩm được đến tay người dùng nhanh hơn
+
+## 6. Delegate Sprint Goals
+
+Với vai trò là một Product Owner, thay vì làm hết mọi việc tôi có thể ủy thác toàn bộ Sprint Goal cho một bộ phận khác được không ?
+
+6. Ủy quyền các Mục tiêu Sprint
+Thay vì tự mình làm mọi thứ, tôi nghĩ về những gì tôi có thể ủy quyền với tư cách là chủ sở hữu sản phẩm.
+Tôi có thể ủy thác toàn bộ mục tiêu chạy nước rút cho một bộ phận không?
+
+Ví dụ: "Trong 2 Sprint tiếp theo, chúng tôi đang nghiên cứu các tính năng cho bộ phận tiếp thị. Vui lòng làm việc trực tiếp với Stefan và chỉ cần cập nhật cho tôi tiến độ. Tôi sẽ luôn có mặt tại Daily Scrum."
+
+Nói một cách khác là tôi giao trách nhiệm về nội dung sản phẩm cho người khác. Chỉ lấy thêm thông tin để đưa ra quyết định khi cần.
+
+Bạn có thể giữ im lặng với tư cách là Product Owner và để nhóm tự vận hành trong Sprint tiếp theo không?
+
+Nếu câu trả lời là không thì tại sao? :v
+
+Trong trường hợp này khoảng cách giữa khách hàng và nhóm là bao xa ?
