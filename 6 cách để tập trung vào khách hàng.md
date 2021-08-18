@@ -9,13 +9,14 @@ Làm thế nào để tôi cảm nhận được những điều trên?
 Đây là những câu hỏi mà tôi muốn chia sẻ trong bài đăng này.
 Hãy bắt đầu với một câu hỏi đơn giản: 
 
-**Ảnh**
+![](/1.png)
+
 Khách hàng
 
 **Có bao nhiêu người trung gian đứng giữa người dùng và development team**
 
 Bạn có thể tưởng tượng như thế này: 
-**Ảnh**
+![](/2.png)
 
 Thông thường chúng ta sẽ có:
 
@@ -36,7 +37,7 @@ Thông thường chúng ta sẽ có:
 Thay vì tập trung vào các chức năng hoàn hảo, cao siêu và đầu tư rất nhiều thời gian vào đó, tôi khuyên bạn nên đưa người dùng đến gần hơn với nhóm.
 Bạn có bao giờ nghĩ rằng mình nên mời một hoặc một vài người dùng tham gia vào buổi Sprint Review với nhóm hay chưa? Hay chỉ đơn giản là hỏi phản hồi của người dùng về các chức năng hiện tại của sản phẩm.
 
-**Ảnh**
+![](/3.png)
 
 Bạn có thể làm gì để tách mình ra để có một góc nhìn mới và tập trung nhiều hơn vào chiến lược sản phẩm? 
 
@@ -54,7 +55,8 @@ Thay vì chỉ chấp nhận hoặc từ chối một Product Backlog Item, tôi
 
 Feedback Moment (Khoảng khắc phản hồi) cho phép người dùng gặp trực tiếp nhóm và đưa ra các phản hồi. Điều này giúp cho nhóm hiểu và được đối mặt trực tiếp với những vấn đề của người dùng thay vì các giải pháp mơ hồ. Điều đó tạo một động lực mạnh đến với nhóm
 
-**Ảnh**
+![](/4.png)
+
 Product Owner từ chối một feature
 
 Chú ý: Việc chấp nhận hoặc từ chối cũng thể hiện một hệ thống phân cấp đi ngược lại Scrum.
@@ -63,7 +65,7 @@ Chú ý: Việc chấp nhận hoặc từ chối cũng thể hiện một hệ t
 
 Thay vì tôn vinh tốc độ, khả năng sử dụng cũng như tính hoàn thiện của tính năng, chúng ta nên định nghĩa thành công là tác động đến người dùng của mình. Sản phẩm của bạn giúp gì để cuộc sống của người dùng tốt hơn
 
-**Ảnh**
+![](/5.png)
 
 **Làm cách nào để nhóm cả thấy đồng cảm hơn với người dùng**
 
@@ -89,3 +91,5 @@ Bạn có thể giữ im lặng với tư cách là Product Owner và để nhó
 Nếu câu trả lời là không thì tại sao? :v
 
 Trong trường hợp này khoảng cách giữa khách hàng và nhóm là bao xa ?
+
+Nguồn: https://www.scrum.org/resources/blog/dear-scrum-team-does-your-product-make-your-users-happy-6-tips-more-customer-focus
