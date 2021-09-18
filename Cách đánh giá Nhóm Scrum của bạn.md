@@ -23,6 +23,8 @@ Không có bất kỳ câu trả lời hoàn hảo nào cho mọi tình huống 
 
 ## Scrum Checklist
 
+![](/scrum-checklist.png)
+
 Hãy bắt đầu từ nó. Có thể bạn đã nghe nói về nó. Ở đây tôi muốn giới thiệu một số phiên bản cập nhật của nó.
 
 [Unofficial Scrum Checklist by Henrik Kniberg](https://www.crisp.se/gratis-material-och-guider/scrum-checklist). Công cụ nêu bật những nguyên tắc cốt lõi quan trọng nhất của Scrum. Ngoài ra nó cũng đưa ra những quy tắc quan trọng khác mà bạn nên chú ý.
@@ -62,6 +64,8 @@ Cách dễ nhất để làm điều đó là xem xét từng giá trị và ph�
 Đây chỉ là một số câu hỏi bạn có thể tự hỏi khi nói đến bốn giá trị cốt lõi của Agile. Bạn có thể tìm hiểu sâu hơn để hiểu rõ hơn cách bạn có thể giúp không chỉ team của mình mà cả tổ chức.
 
 ## Team Health Check
+
+![](/squad-health-check-model-overview-1.png)
 
 Một trong các công cụ tuyệt với khác đó là [Spotify Squad Health Check model](https://engineering.atspotify.com/2014/09/16/squad-health-check-model/). Nó cực kỳ hữu ích không chỉ để đánh giá team của bạn mà còn sử dụng được trong buổi Retropective.
 
