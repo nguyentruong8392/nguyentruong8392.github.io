@@ -47,3 +47,50 @@ Từ phiên bản gần đây nhất của Scrum Guide chúng ta thêm một và
 - Scrum Team và các stakeholder kiểm tra kết quả mỗi Sprint và điều chỉnh cho Sprint tiếp theo
 
 Danh sách **Điểm mấu chốt** chỉ là sự khởi đầu. Khi bạn tiếp tục với checklist, nếu bất kỳ một điểm nào không được tick, đó chính là vấn đề bạn muốn khắc phục. Tất nhiên bạn không thể làm tất cả mọi thứ vì vậy hãy lựa chọn những gì mang lại giá trị nhất.
+
+## Agile Values and Principles
+
+Nếu bạn muốn hiểu sâu sắc hơn về sự trưởng thành Agile của team và tổ chức của mình, bạn nên xem xét các giá trị Agile và các nguyên tắc Agile.
+
+Cách dễ nhất để làm điều đó là xem xét từng giá trị và phân tích những gì bạn quan sát được: team của bạn đang đạt được những điều phía bên trái hay bên phải nhiều hơn?
+
+- Cá nhân và tương tác hơn là quy trình và công cụ.
+- Phần mềm hoạt động tốt hơn là tài liệu đầy đủ.
+- Hợp tác với khách hàng hơn là đàm phán hợp đồng.
+- Ứng phó, phản hồi với các thay đổi hơn là làm theo kế hoạch.
+
+Đây chỉ là một số câu hỏi bạn có thể tự hỏi khi nói đến bốn giá trị cốt lõi của Agile. Bạn có thể tìm hiểu sâu hơn để hiểu rõ hơn cách bạn có thể giúp không chỉ team của mình mà cả tổ chức.
+
+## Team Health Check
+
+Một trong các công cụ tuyệt với khác đó là [Spotify Squad Health Check model](https://engineering.atspotify.com/2014/09/16/squad-health-check-model/). Nó cực kỳ hữu ích không chỉ để đánh giá team của bạn mà còn sử dụng được trong buổi Retropective.
+
+Phiên bản Spotify cung cấp cho bạn một số chủ đề để bắt đầu. Nhưng giá trị thực sự của mô hình này là khi bạn hoàn toàn thích ứng với hoàn cảnh, team và sản phẩm của bạn.
+
+Tôi sử dụng phiên bản custom lại của riêng mình trong quá trình điều tra để thu thập một số chỉ số mà chúng tôi có thể theo dõi và đánh giá sau này. Đây là một cách tuyệt vời để thu hút sự tham gia của cả team vào cuộc đánh giá và cũng cung cấp cho họ kế hoạch hành động rõ ràng sau mỗi buổi Retrospective. Dưới đây là những chủ đề tôi sử dụng trong phiên bản của mình:
+
+- Knowledge Availability
+- Product Clarity
+- Issue Resolution
+- Ownership
+- Learning
+- Decisions
+- Dependencies
+- Suitable Process
+- Customer Value
+- Team Happiness
+- Estimations
+- Teamwork
+- Technical Excellence
+- Cross-team Communication
+
+
+
+
+
+
+
+
+
+
+
