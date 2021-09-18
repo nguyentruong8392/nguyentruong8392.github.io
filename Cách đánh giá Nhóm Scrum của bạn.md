@@ -4,7 +4,7 @@ Mỗi Scrum Team đều khác nhau. Ngay cả khi hai team có cùng một thử
 
 Câu trả lời tốt nhất ở đây mà một Scrum Master có thể đưa ra cho một câu hỏi mở là "Điều đó phụ thuộc vào ..."
 
-Với vai trò là Scrum Master bạn phải biết bắt đầu từ đâu. Cho dù bạn tham gia với một nhóm hoàn toàn mới hay nó đã hoạt động được một thời gian, việc đánh giá tình hình của nhóm luôn giúp ích cho bạn. Cách tiếp cận đơn giản nhất là sử dụng các công cụ tự đánh giá.
+Với vai trò là Scrum Master bạn phải biết bắt đầu từ đâu. Cho dù bạn tham gia với một team hoàn toàn mới hay nó đã hoạt động được một thời gian, việc đánh giá tình hình của team luôn giúp ích cho bạn. Cách tiếp cận đơn giản nhất là sử dụng các công cụ tự đánh giá.
 
 ## Bắt đầu với một công cụ
 
@@ -19,7 +19,7 @@ Như đã nói ở phần mở đầu, mỗi team đều khác nhau. Mặc dù c
 
 Sự linh hoạt là bao gồm tất cả việc kiểm tra và điều chỉnh. Vì vậy nếu có gì đó không liên quan hoặc không phù hợp chỉ đơn giản là hãy thay đổi nó.
 
-Không có bất kỳ câu trả lời hoàn hảo nào cho mọi tình huống của nhóm. Vì vậy hãy trực tiếp cảm nhận và bạn sẽ biết bắt đầu từ đâu.
+Không có bất kỳ câu trả lời hoàn hảo nào cho mọi tình huống của team. Vì vậy hãy trực tiếp cảm nhận và bạn sẽ biết bắt đầu từ đâu.
 
 ## Scrum Checklist
 
@@ -29,4 +29,21 @@ Hãy bắt đầu từ nó. Có thể bạn đã nghe nói về nó. Ở đây t
 
 Tuy nhiên đã một khoảng thời gian từ khi công cụ này ra đời. Nó cần một chút cập nhật để giảm bớt sợ nhầm lẫn, đặc biệt là từ sau khi Scrum Guide được ra mắt năm 2020. Dưới đây là một vài điểm tôi cần nhấn mạnh và làm rõ:
 
-### 
+### Điểm mấu chốt
+
+Nếu tất cả cá mục trong checklist được tick tức là team của bạn đang hoạt động tốt. **Đừng thay đổi những gì không gặp vấn đề*
+
+- Cung cấp Product Increment có thể sử dụng được và đáp ứng các Definition of Done ở mỗi Sprint.
+
+- Mang đến những gì mà doanh nghiệp cũng như là khách hàng cần nhất.
+
+- Các quy trình của team và tổ chức được cải tiến liên tục
+
+Từ phiên bản gần đây nhất của Scrum Guide chúng ta thêm một vài thứ vào checklist. Nếu không có chúng việc triển khai Scrum có thể mang lại nhiều tác hại hơn là điểm tốt.
+
+- Scrum Master khuyến khích một môi trường thân thiện.
+- Product Owner có toàn quyền trong việc sắp xếp Product Backlog
+- Scrum Team có toàn quyền chọn cách làm việc để hoàn thành Increment trong Sprint.
+- Scrum Team và các stakeholder kiểm tra kết quả mỗi Sprint và điều chỉnh cho Sprint tiếp theo
+
+Danh sách **Điểm mấu chốt** chỉ là sự khởi đầu. Khi bạn tiếp tục với checklist, nếu bất kỳ một điểm nào không được tick, đó chính là vấn đề bạn muốn khắc phục. Tất nhiên bạn không thể làm tất cả mọi thứ vì vậy hãy lựa chọn những gì mang lại giá trị nhất.
