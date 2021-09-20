@@ -88,8 +88,7 @@ Tôi sử dụng phiên bản custom lại của riêng mình trong quá trình 
 - Technical Excellence
 - Cross-team Communication
 
-
-
+Nguồn : https://www.scrum.org/resources/blog/how-assess-your-scrum-team-my-personal-tools
 
 
 
